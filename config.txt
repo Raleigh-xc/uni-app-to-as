@@ -1,0 +1,2 @@
+srcDir=D:/MyProject/uni-app-set/uni-app-zhihu
+sdkDir=D:/Tools/Android-SDK@2.6.1.74103_20200226
