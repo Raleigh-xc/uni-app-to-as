@@ -1,6 +1,7 @@
 /**
  * 获取属性值
  * Author: Dorange
+ * 支持单引号、双引号、无引号、连接符前后空格
  */
 const fs = require('fs')
 
